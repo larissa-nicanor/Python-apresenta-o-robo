@@ -1,0 +1,63 @@
+print ('Olá, mundo!')
+Obs.: sempre utilizar letras minúsculas, exceto, dentro de aspas
+
+' ou " : Podem ser usadas um ou duas aspas
+(' ') : Aspas dentro de Parênteses
+print: Escreva/Aparecer mensagem, para exibir na tela
+print (7+4): 11 :Numero, para utilizar cálculos, sem aspas
+print ('7'+'4'): 74 :Mostra sequência de numeros, não soma
+print ('Olá' , 5): Olá 5 (utilizar virgula)
+= : Recebe
+input : Leia
+
+
+
+VARIÁVEIS > OBJETO (receber valores)
+
+informações de script/estativas/fixas:
+
+nome = 'Larissa'
+idade = 25
+peso = 46.5
+
+print(nome,idade,peso)
+
+
+
+informações interativas com o usuario:
+
+nome = input ('Qual é o seu nome?')
+idade = input ('Quantos anos voce tem?')
+peso = input ('Quanto você pesa?')
+
+print (nome, idade, peso)
+
+Colocar em pratica no modo interativo:
+File > New File> (informações) > Run > Run Module
+
+
+
+Exercício 1:
+nome = input ('Qual é o seu nome?')
+prazer = input ('Ola' + nome + ' Prazer em te conhecer!')
+print (nome , prazer)
+
+Exercicio 2:
+dia =  input ('Qual dia voce nasceu?')
+mes = input ('Em qual mês voce nasceu?')
+ano = input ('Qual o ano que voce nasceu?')
+print ('Voce nasceu no dia ' + dia + ' de ' + mes + ' de ' + ano + ' Correto?')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
